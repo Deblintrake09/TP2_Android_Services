@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TPServicios</string>
+    <string name="Titulo">Cuando clickea el boton empezar, la aplicación mostrará por consola de debug, los datos más relevantes de los últimos 5 mensajes SMS, cada 9 segundos (9000 milisegundos).</string>
+</resources>
